@@ -1,0 +1,179 @@
+.navbar-content {
+    background-color: #111111;
+}
+
+.facilities-section {
+    background: url('../materi/balemara/DRONE_SHOT_01.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 0px 0px 800px 600px rgb(0, 0, 0, 0.4);
+}
+
+.facilities-container {
+    height: 100vh;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.facilities-container .row {
+    /* color: white; */
+    font-family: 'Donegal One', serif;
+}
+
+.about-section,
+.rooms-section,
+.specialOffers-section {
+    background-color: #EBE9EA;
+}
+
+.about-container,
+.rooms-container,
+.special-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.rooms-container h4,
+.special-container h4 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.about-container h5,
+.rooms-container h5,
+.special-container h5 {
+    font-size: 28px;
+    font-weight: 700;
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.gallery-section {
+    background-color: #EBE9EA;
+}
+
+.gallery-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.gallery-container h4 {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.contact-section {
+    background-color: #333333;
+}
+
+.contact-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contact-container h4 {
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.contact-container p {
+    font-size: 18px;
+    font-weight: 200;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.contact-container .sub-contact a {
+    /* font-size: 20pt; */
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+
+.contact-container .sub-contact a:hover {
+    /* font-size: 20pt; */
+    text-decoration: underline;
+    color: black;
+}
+
+.termConditions-section {
+    background-color: #EBE9EA;
+}
+
+.termConditions-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.termConditions-container h4 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.termConditions-container p {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: 700;
+    text-align: start;
+    padding-top: 5px;
+}
+
+.booking-section {
+    background-color: #EBE9EA;
+}
+
+.booking-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.booking-container h4 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.room-content img {
+    width: 20vw;
+    padding: 10px;
+    max-height: 50vh;
+}
+
+.room-content span {
+    font-family: 'Donegal One', serif;
+    font-size: 13pt;
+}
+
+.product {
+    transition: 0.5s;
+    margin: 2em;
+}
+
+.product:hover {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+    z-index: 9;
+}
+
+.product img {
+    width: 100%;
+    padding: 10px;
+}
