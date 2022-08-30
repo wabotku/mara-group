@@ -32,4 +32,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/results/
 
 assets/resources
-assets/vendor
+# assets/vendor
